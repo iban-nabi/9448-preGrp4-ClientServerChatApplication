@@ -1,0 +1,43 @@
+<GROUP_CHAT>
+    <GRP name="BOOMER">
+        <ADMIN>jie</ADMIN>
+        <MEMBER status="Accepted">jesson</MEMBER>
+        <MEMBER status="Pending">123</MEMBER>
+    </GRP>
+    <GRP name="OK">
+        <ADMIN>jie</ADMIN>
+        <MEMBER status="Pending">jesson</MEMBER>
+    </GRP>
+    <GRP name="TEST1">
+        <ADMIN>123</ADMIN>
+        <MEMBER status="Pending">ivan</MEMBER>
+        <MEMBER status="Accepted">jesson</MEMBER>
+        <MEMBER status="Accepted">321</MEMBER>
+        <MEMBER status="Pending">Joshua</MEMBER>
+    </GRP>
+    <GRP name="TEST2">
+        <ADMIN>jesson</ADMIN>
+        <MEMBER status="Accepted">ivan</MEMBER>
+    </GRP>
+    <GRP name="TEST3">
+        <ADMIN>jesson</ADMIN>
+        <MEMBER status="Accepted">321</MEMBER>
+        <MEMBER status="Accepted">123</MEMBER>
+        <MEMBER status="Accepted">ivan</MEMBER>
+    </GRP>
+    <GRP name="sdfsdf">
+        <ADMIN>Joshua</ADMIN>
+    </GRP>
+    <GRP name="sfasdf">
+        <ADMIN>Joshua</ADMIN>
+    </GRP>
+    <GRP name="fasdf">
+        <ADMIN>Carl</ADMIN>
+    </GRP>
+    <GRP name="grp">
+        <ADMIN>CJ</ADMIN>
+    </GRP>
+    <GRP name="newgroup">
+        <ADMIN>CJ</ADMIN>
+    </GRP>
+</GROUP_CHAT>

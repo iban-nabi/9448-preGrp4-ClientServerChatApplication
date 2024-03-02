@@ -1,0 +1,8 @@
+<offline_messages>
+    <receiver receiver="123">
+        <sender sender="321">
+            <message>hi babe</message>
+            <message>hi babhe</message>
+        </sender>
+    </receiver>
+</offline_messages>
